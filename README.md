@@ -141,3 +141,4 @@ service githubWebhook on githubListener {
 Every time an issue is opened in the repository or when the repository is starred, a content delivery request 
 will be received at the relevant resource.
 ***
+# github-connector
